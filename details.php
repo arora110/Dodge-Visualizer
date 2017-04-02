@@ -122,7 +122,7 @@
 			divColorBar.id = (i-2).toString();
 			divColorBar.className = "avgColorImg";
 			divColorBar.style.height = "1.5vh";
-			divColorBar.style.background = "#"+array[i-1];
+			divColorBar.style.background = "#"+array[i-2];
 			 
 			// Set its contents:
 			item.appendChild(divColorBar);
